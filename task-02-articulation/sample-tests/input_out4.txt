@@ -1,0 +1,2 @@
+Found 2 articulation nodes: 373 453
+Found 2 bridges: 373-383 380-453

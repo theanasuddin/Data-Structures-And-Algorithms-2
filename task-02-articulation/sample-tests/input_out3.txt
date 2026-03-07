@@ -1,0 +1,2 @@
+Found 1 articulation nodes: 71
+Found 1 bridges: 71-8

@@ -1,0 +1,2 @@
+Found 3 articulation nodes: B F N
+Found 2 bridges: B-H F-N
