@@ -1,0 +1,38 @@
+0 concat 1 2
+1 | 3 4
+2 * 5
+3 concat 6 7
+4 concat 8 9
+5 concat 10 11
+6 concat 12 13
+7 concat 14 15
+8 concat 16 17
+9 concat 18 19
+10 ,
+11 | 20 21
+12 input
+13 * 22
+14 \.
+15 txt
+16 output
+17 * 23
+18 \.
+19 txt
+20 concat 24 25
+21 concat 26 27
+22 \w
+23 \w
+24 concat 28 29
+25 concat 30 31
+26 concat 32 33
+27 concat 34 35
+28 input
+29 * 36
+30 \.
+31 txt
+32 output
+33 * 37
+34 \.
+35 txt
+36 \w
+37 \w
