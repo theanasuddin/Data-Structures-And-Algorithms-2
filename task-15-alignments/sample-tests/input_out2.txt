@@ -1,0 +1,28 @@
+LCS length: 14
+
+acbaaabb ababcbcabacaa     a 
+ c  aa bca a cbc ba aacbbccab
+
+acbaaabb ababcbcabacaa     a 
+ c a a bca a cbc ba aacbbccab
+
+acbaaabb ababcbcabacaa     a 
+ c aa  bca a cbc ba aacbbccab
+
+acbaaabb ababcbcabacaa     a 
+ c  aab ca a cbc ba aacbbccab
+
+acbaaabb ababcbcabacaa     a 
+ c a ab ca a cbc ba aacbbccab
+
+acbaaabb ababcbcabacaa     a 
+ c aa b ca a cbc ba aacbbccab
+
+acbaaab bababcbcabacaa     a 
+ c  aabc a a cbc ba aacbbccab
+
+acbaaab bababcbcabacaa     a 
+ c a abc a a cbc ba aacbbccab
+
+acbaaab bababcbcabacaa     a 
+ c aa bc a a cbc ba aacbbccab
